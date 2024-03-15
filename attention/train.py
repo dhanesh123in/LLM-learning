@@ -239,7 +239,7 @@ def train_model(config):
             'model_state_dict': model.state_dict(),
             'optimizer_state_dict': optimizer.state_dict(),
             'global_step': global_step
-        }, model_filename=model_filename)
+        }, model_filename)
 
 
 if __name__ == "__main__":
