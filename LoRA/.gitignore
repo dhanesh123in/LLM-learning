@@ -9,3 +9,8 @@ Seq2Seq_tst/
 *.csv
 *.jsonl
 .ipynb_checkpoints/
+Seq2Seq_bart-large/
+bart-large-finetuned-reprompt/
+flan-t5-base-finetuned-reprompt/
+flan-t5-large-finetuned-reprompt/
+
